@@ -1,2 +1,2 @@
 # CatPhotoApp
-html, cat photo app
+html, cat photo app.
